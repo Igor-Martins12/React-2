@@ -1,5 +1,5 @@
 import axios from 'axios';
 
 export default axios.create({
-  baseURL: 'https://curso1.otavio',
+  baseURL: 'http://localhost:3006/Alunos',
 });
